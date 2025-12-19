@@ -1,5 +1,3 @@
-# learning-c
-A comprehensive collection of C programs, notes, and projects documenting my journey from basics to advanced systems programming.
 # Learning C Programming 🚀
 
 Welcome to my journey of mastering the C programming language. This repository contains my code snippets, exercises, and mini-projects as I progress from a beginner to understanding low-level memory management.
