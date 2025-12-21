@@ -6,4 +6,4 @@
 |:---:|:------|
 | Day 1 | Hello World Program |
 | Day 2 | Data Types and Variables |
-| Day 3 | Operators |
+| Day 3 | Operators, Type Casting & SizeOf |
