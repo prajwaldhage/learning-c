@@ -8,3 +8,4 @@
 | Day 2 | Data Types and Variables |
 | Day 3 | Operators, Type Casting & SizeOf |
 | Day 4 | Standard IO Functions |
+| Day 5 | Revision |
