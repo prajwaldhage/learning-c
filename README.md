@@ -50,5 +50,5 @@ learning-c/
 | Week No. | Topic                      | Status                           |
 |:--------:|:--------------------------:|:------------------------------:  |
 |Week 0    |Setup & Resource Gathering  |![](https://geps.dev/progress/100)|
-|Week 1    |Introduction & Syntax Basics|![](https://geps.dev/progress/40) |
+|Week 1    |Introduction & Syntax Basics|![](https://geps.dev/progress/60) |
 

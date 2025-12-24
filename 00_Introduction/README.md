@@ -9,3 +9,4 @@
 | Day 3 | Operators, Type Casting & SizeOf |
 | Day 4 | Standard IO Functions |
 | Day 5 | Revision |
+| Day 6 | Basic Programs |
