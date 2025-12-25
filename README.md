@@ -43,12 +43,15 @@ learning-c/
 - **Introduction**: Setting up GCC, "Hello World"
 - **Variables & Types**: int, float, char, constants
 - **Operators**: Arithmetic, Logical, Bitwise
-- **Control Flow**: If/Else, Switch, Loops (for/while)
 
 ## 📝 Progress
 
 | Week No. | Topic                      | Status                           |
 |:--------:|:--------------------------:|:------------------------------:  |
 |Week 0    |Setup & Resource Gathering  |![](https://geps.dev/progress/100)|
-|Week 1    |Introduction & Syntax Basics|![](https://geps.dev/progress/60) |
+|Week 1    |Introduction & Syntax Basics|![](https://geps.dev/progress/100)|
 
+## Resources Used
+
+- Book -> The C Programming Language (K & R)
+- Book -> C Programming Language (Tech Knowledge) [For Exercises]

@@ -10,3 +10,4 @@
 | Day 4 | Standard IO Functions |
 | Day 5 | Revision |
 | Day 6 | Basic Programs |
+| Day 7 | Completion of Chapter 1 & Notes Making |
