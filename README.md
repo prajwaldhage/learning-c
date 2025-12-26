@@ -50,6 +50,7 @@ learning-c/
 |:--------:|:--------------------------:|:------------------------------:  |
 |Week 0    |Setup & Resource Gathering  |![](https://geps.dev/progress/100)|
 |Week 1    |Introduction & Syntax Basics|![](https://geps.dev/progress/100)|
+| Week 2   |Control Flow                |![](https://geps.dev/progress/10) |
 
 ## Resources Used
 

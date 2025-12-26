@@ -18,3 +18,7 @@
     - Greater number using conditional operator
     - Product of two integers
     - Calculating Simple Interest
+
+### Week 2: Control Flow
+
+- For Loop
