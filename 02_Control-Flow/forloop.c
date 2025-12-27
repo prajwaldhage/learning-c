@@ -1,5 +1,5 @@
 // Write a Program to display the word "Computer" five times using for loop
-// Day 7: For Loop
+// Day 8: For Loop
 // Date: 26-12-2025
 
 #include <stdio.h>
