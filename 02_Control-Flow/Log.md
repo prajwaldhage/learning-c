@@ -5,3 +5,4 @@
 | Day | Topic |
 |:---:|:------|
 | Day 1 | For Loop & Basic Programs |
+| Day 2 | Do While Loop |
